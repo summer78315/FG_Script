@@ -1,0 +1,10 @@
+config firewall addrgrp
+
+edit Risk_Group2
+
+set member  "193.226.177.45/32" "195.158.3.162/32" "193.56.146.189/32"
+
+
+next
+
+end
